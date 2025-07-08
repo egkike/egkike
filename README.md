@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enrique Garcia
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nomre es Enrique Garcia
 ======================================================================================================================================
 
-Systems Analyst & Software Developer
-------------------------------------
+Analista de Sistemas & Desarrollador de Software
+------------------------------------------------
 
-* 🌍  I'm based in Argentina
-* 🖥️  See my profile page at [https://kikegarciabio.netlify.app](http://kikegarciabio.netlify.app)
-* ✉️  You can contact me at [garciahnospy@gmail.com](mailto:garciahnospy@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects
+* 🌍  Estoy en Argentina
+* 🖥️  Mi página de perfil es esta [https://kikegarciabio.netlify.app](http://kikegarciabio.netlify.app)
+* ✉️  Puedes contactarme en este correo [garciahnospy@gmail.com](mailto:garciahnospy@gmail.com)
+* 🤝  Estoy abierto a colaborar en proyectos interesantes
 
 ### Skills
 
