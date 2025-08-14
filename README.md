@@ -6,7 +6,7 @@ Analista de Sistemas & Desarrollador de Software
 
 * 🌍  Estoy en Argentina
 * 🖥️  Mi página de perfil es esta [https://kikegarciabio.netlify.app](http://kikegarciabio.netlify.app)
-* ✉️  Puedes contactarme en este correo [garciahnospy@gmail.com](mailto:garciahnospy@gmail.com)
+* ✉️  Puedes contactarme en este correo [kike.goatskin922@slmails.com](mailto:kike.goatskin922@slmails.com)
 * 🤝  Estoy abierto a colaborar en proyectos interesantes
 
 ### Skills
