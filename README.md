@@ -22,6 +22,7 @@ Ayudo a **PyMEs y emprendedores a implementar sistemas de asistentes con IA** y 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored.svg" width="36" height="36" alt="Astro" title="Astro"/></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a>
 </p>
 
@@ -50,6 +51,14 @@ Ayudo a **PyMEs y emprendedores a implementar sistemas de asistentes con IA** y 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
+</p>
+
+### Agentes de IA
+
+<p align="left">
+<a href="https://opencode.ai" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenCode-Agent%20de%20IA%20open%20source-0891b2?style=flat-square" alt="OpenCode" title="OpenCode" /></a>
+<a href="https://pi.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pi-Minimal%20Agent%20Harness-0891b2?style=flat-square" alt="Pi" title="Pi" /></a>
+<a href="https://github.com/Gentleman-Programming/gentle-ai" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gentle%20AI-RDD%20y%20SDD-0891b2?style=flat-square" alt="Gentle AI" title="Gentle AI" /></a>
 </p>
 
 ---
