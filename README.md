@@ -1,13 +1,13 @@
-# 👋 Hola, soy Enrique Garcia
+# 👋 Hola, soy Enrique (Kike) Garcia
 
-## Analista de Sistemas & Desarrollador de Software
+## Software Developer & AI Solutions Architect
 
-Ayudo a **PyMEs y emprendedores a implementar sistemas de asistentes con IA** y a construir software que resuelve problemas reales.
+Ayudo a **PyMEs y emprendedores a implementar sistemas que resuelven problemas con la asistencia de IA** y a construir software que resuelve problemas reales.
 
 - 🌍 Estoy en Argentina
 - 🖥️ Mi página de perfil: [kikegarciabio.netlify.app](https://kikegarciabio.netlify.app)
 - ✉️ Puedes contactarme en: [kike.goatskin922@slmails.com](mailto:kike.goatskin922@slmails.com)
-- 🤝 Estoy abierto a colaborar en proyectos interesantes
+- 🤝 Estoy abierto a colaborar en proyectos Open Source
 
 ---
 
